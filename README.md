@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align='center'><h1>Hey, I am Prasanna.</h1></div>
+<div align='center'><h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello World</h1></div>
 
-<a href="https://codeforces.com/profile/084-076-069/" target="_blank" rel="nofollow"><img align="right" alt="Prasanna's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>
-  <a href="https://leetcode.com/Prasanna648/" target="_blank" rel="nofollow"><img align="right" alt="Prasanna's Leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /></a>
-<a href="https://www.linkedin.com/in/prasannabiitm/" target="_blank" rel="nofollow"><img align="right" alt="Prasanna's Twitter" width="22px" src="https://image000.flaticon.com/png/512/2111/2111499.png" /></a>
+<a href="https://codeforces.com/profile/084-076-069/" target="_blank" rel="nofollow"><img align="right" alt="084-076-069" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>
+  <a href="https://leetcode.com/Prasanna648/" target="_blank" rel="nofollow"><img align="right" alt="Prasanna648" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" /></a>
+<a href="https://www.linkedin.com/in/prasannabiitm/" target="_blank" rel="nofollow"><img align="right" alt="prasannabiitm" width="22px" src="https://image000.flaticon.com/png/512/2111/2111499.png" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannaiitm&label=Profile%20views&color=0e75b6&style=flat" alt="prasannaiitm" /> </p>
 
