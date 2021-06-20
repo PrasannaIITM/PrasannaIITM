@@ -13,11 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align='center'><h1>Hey, I am Prasanna.</h1></div>
+
 <a href="https://codeforces.com/profile/084-076-069/" target="_blank" rel="nofollow"><img align="right" alt="Prasanna's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>
   <a href="https://leetcode.com/Prasanna648/" target="_blank" rel="nofollow"><img align="right" alt="Prasanna's Leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /></a>
 <a href="https://www.linkedin.com/in/prasannabiitm/" target="_blank" rel="nofollow"><img align="right" alt="Prasanna's Twitter" width="22px" src="https://image000.flaticon.com/png/512/2111/2111499.png" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannaiitm&label=Profile%20views&color=0e75b6&style=flat" alt="prasannaiitm" /> </p>
+
+- :school: I'm [Prasanna Bartakke](https://www.linkedin.com/in/prasannabiitm/) currently a second year Electrical Engineering student at <a href="https://www.iitm.ac.in/">@Indian Institute of Technology, Madras</a>
+- 🔭 I’m currently working as a Backend Developer Intern at [Dukaan](https://mydukaan.io/)
+- :heavy_check_mark: I enjoy problem solving and learning new skills.
+- 📫 How to reach me **prasanna.bartakke@gmail.com**
+- 💬 Ask me about anything, I am happy to help
 
 
 <h3 align="left">Languages and Tools:</h3>
