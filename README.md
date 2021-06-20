@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align='center'><h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello World</h1></div>
+<div align='center'><h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello World!</h1></div>
 
 <a href="https://codeforces.com/profile/084-076-069/" target="_blank" rel="nofollow"><img align="right" alt="084-076-069" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>
   <a href="https://leetcode.com/Prasanna648/" target="_blank" rel="nofollow"><img align="right" alt="Prasanna648" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" /></a>
