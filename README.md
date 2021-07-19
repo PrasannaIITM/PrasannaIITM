@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - :school: I'm [Prasanna Bartakke](https://www.linkedin.com/in/prasannabiitm/) currently a second year Electrical Engineering student at <a href="https://www.iitm.ac.in/">@Indian Institute of Technology, Madras</a>.
 - 🔭 I’m currently working as a Backend Developer Intern at [Dukaan](https://mydukaan.io/).
 - :heavy_check_mark: I enjoy problem solving and learning new skills.
-- 📫 How to reach me **prasanna.bartakke@gmail.com**.
+<!-- - 📫 How to reach me **prasanna.bartakke@gmail.com**. -->
 - 💬 Ask me about anything, I am happy to help.
 
 
