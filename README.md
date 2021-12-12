@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannaiitm&label=Profile%20views&color=0e75b6&style=flat" alt="prasannaiitm" /> </p>
 
 - :school: I'm [Prasanna Bartakke](https://www.linkedin.com/in/prasannabiitm/) currently a second year Electrical Engineering student at <a href="https://www.iitm.ac.in/">@Indian Institute of Technology, Madras</a>.
-- 🔭 I have worked as a Backend Developer Intern at [Dukaan](https://mydukaan.io/).
+- 🔭 I have worked as a Backend Developer Intern at [Dukaan](https://mydukaan.io/) and [Pazcare](https://www.pazcare.com/).
 - :heavy_check_mark: I enjoy problem solving and learning new skills.
 - 💬 Ask me about anything, I am happy to help.
 <!-- - 📫 How to reach me **prasanna.bartakke@gmail.com**. -->
