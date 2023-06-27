@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannaiitm&label=Profile%20views&color=0e75b6&style=flat" alt="prasannaiitm" /> </p>
 
-- 🏢 I'm [Prasanna Bartakke](https://www.linkedin.com/in/prasannabiitm/) currently working at [Millennium](https://www.mlp.com/) as a Quantitative Developer.
+- 🏢 I'm [Prasanna Bartakke](https://www.linkedin.com/in/prasannabiitm/), currently working at [Millennium](https://www.mlp.com/) as a Quantitative Developer.
 - 🏫 I graduated in June 2023 with a B.Tech. in Electrical Engineering and a minor in Computing from the <a href="https://www.iitm.ac.in/">@Indian Institute of Technology, Madras</a>.
 - 🔭 I have interned at [APT Portfolio](https://aptportfolio.com/)(High Frequency Trading Firm in India) in the Data Engineering and Research team. I have also worked as a Backend Developer Intern at [FamPay](https://fampay.in/), [Dukaan](https://mydukaan.io/) and [Pazcare](https://www.pazcare.com/).
 - :heavy_check_mark: I enjoy problem solving and learning new skills.
